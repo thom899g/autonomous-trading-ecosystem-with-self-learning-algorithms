@@ -1,0 +1,28 @@
+# Core Ecosystem
+firebase-admin>=6.4.0
+pandas>=2.0.0
+numpy>=1.24.0
+ccxt>=4.1.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+torch>=2.0.0
+transformers>=4.30.0
+
+# Data & APIs
+yfinance>=0.2.33
+requests>=2.31.0
+alpaca-trade-api>=3.0.0
+tweepy>=4.14.0
+google-cloud-pubsub>=2.18.0
+
+# Monitoring & Logging
+structlog>=23.1.0
+prometheus-client>=0.17.0
+
+# Utilities
+pydantic>=2.0.0
+redis>=5.0.0
+croniter>=1.4.0
